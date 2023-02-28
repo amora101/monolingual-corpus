@@ -3,9 +3,9 @@ This repository contains a monolingual corpus dataset for low-resource languages
 
 ### Table of Contents
 - [Background](#background)
-- [Data Collection](#collection)
-- [Data Preprocessing](#preprocessing)
-- [Data Format](#format)
+- [Data Collection](#data-collection)
+- [Data Preprocessing](#data-preprocessing)
+- [Data Format](#data-format)
 - [Contributing](#contributing)
 - [License](#license)
 
