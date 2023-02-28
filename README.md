@@ -2,12 +2,12 @@
 This repository contains a monolingual corpus dataset for low-resource languages in the Ethiopia, intended to support the development of natural language processing (NLP) and artificial intelligence (AI) for these languages. The dataset includes text data collected from various sources, including websites, social media, and digital news outlets, and requires to be preprocessed and cleaned for ease of use.
 
 ### Table of Contents
--[Background](Background)
--[Data Collection](Data Collection)
--[Data Preprocessing](Data Preprocessing)
--[Data Format](Data Format)
--[Contributing](Contributing)
--[License](License)
+- [Background](#Background)
+- [Data Collection](#Data Collection)
+- [Data Preprocessing](#Data Preprocessing)
+- [Data Format](#Data Format)
+- [Contributing](#Contributing)
+- [License](#License)
 
 ## Background
 Ethiopia is home to a diverse range of languages, many of which are considered low-resource languages. Low-resource languages lack sufficient digital resources, such as corpora, to enable the development of NLP and AI technologies.
