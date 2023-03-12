@@ -1,4 +1,4 @@
-[![NLP - Header](https://source.unsplash.com/random/1480x200/?language)]
+![NLP - Header](https://source.unsplash.com/random/1480x200/?language)
 
 # Monolingual Corpus Dataset for Low-Resource Languages in the Horn of Africa
 This repository contains a monolingual corpus dataset for low-resource languages in the Ethiopia, intended to support the development of natural language processing (NLP) and artificial intelligence (AI) for these languages. The dataset includes text data collected from various sources, including websites, social media, and digital news outlets, and requires to be preprocessed and cleaned for ease of use.
