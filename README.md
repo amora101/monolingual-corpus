@@ -37,8 +37,10 @@ We used a combination of manual and automatic methods to carry out these preproc
 The data in this repository is provided in a plain text format (txt, json or csv), with one document per file. Each file is named according to the source of the data, and the language of the document is indicated in the file name. For example:
 
 ```
+  AlainAmharic.json
   VOAAmharic.json
   VOATigrigna.json
+  bbcamharic.json
   dw_amharic.json
   reporter_amhari.json
 ```
